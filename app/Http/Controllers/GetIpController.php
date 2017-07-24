@@ -55,7 +55,7 @@ class GetIpController extends Controller
     }
 
     /**
-     * Who is your browser's name?
+     * What is your browser's name?
      *
      * @return array
      */
